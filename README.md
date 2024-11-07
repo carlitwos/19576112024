@@ -7,7 +7,7 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8
 http://star-flix.net:8080/FranzMimbela/Y4cb8EnYQd/87038
 #EXTINF:-1 tvg-logo="https://acortar.link/TWHvti",CANAL 6📺
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://acortar.link/sNAxXl",CANAL 9📺
+#EXTINF:-1 tvg-logo="https://acortar.link/T0Kl8w",CANAL 9📺
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/5aQUKR",CANAL 11📺
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
@@ -19,8 +19,6 @@ https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/chunklist_w1870465371.
 https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/vqwAFZ",CANAL 21📺
 https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
-#EXTINF:-1 tvg-logo="https://acortar.link/OwLJqB",CANAL 23📺
-https://5fc584f3f19c9.streamlock.net/tvo/videotvo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNi8yMDI0IDExOjM2OjMxIFBNJmhhc2hfdmFsdWU9R09TWno1cCtqUVR5SDBBd1A2NUszUT09JnZhbGlkbWludXRlcz0xMCZpZD0=&DVR
 #EXTINF:-1 tvg-logo="https://acortar.link/KvK4wL",WOW TV📺
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/687z4y",ORBITA TV📺
