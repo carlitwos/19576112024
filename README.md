@@ -6,7 +6,7 @@ https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/iBylbg",CANAL 4📺
 http://star-flix.net:8080/FranzMimbela/Y4cb8EnYQd/87038
 #EXTINF:-1 tvg-logo="https://acortar.link/TWHvti",CANAL 6📺
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/.m3u8
+http://daleplay.club:8080/live/usuariocanales737/nKPxbFW46jgM/b72e877f-4aa7-49ff-9ac0-740f847baf91.m3u
 #EXTINF:-1 tvg-logo="https://acortar.link/T0Kl8w",CANAL 9📺
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/5aQUKR",CANAL 11📺
